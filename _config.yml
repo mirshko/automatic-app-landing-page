@@ -26,15 +26,15 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Your favorite stop
+  - title: Your Favorite Stop
     description: Clean, glanceable Ethereum gas prices in your native currency or Gwei.
     fontawesome_icon_name: money-bill
 
-  - title: What we've got
+  - title: What We've Got
     description: "Three speeds of Ethereum transactions: safeLow, average, and fast"
     fontawesome_icon_name: gas-pump
 
-  - title: Coming soon
+  - title: Coming Soon
     description: Whole new redesign, more features, and more currencies still to come!
     fontawesome_icon_name: mobile
 
