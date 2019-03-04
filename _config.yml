@@ -31,12 +31,12 @@ features:
     fontawesome_icon_name: money-bill
 
   - title: What we've got
-    description: Three speeds of Ethereum transactions: safeLow, average, and fast
+    description: "Three speeds of Ethereum transactions: safeLow, average, and fast"
     fontawesome_icon_name: gas-pump
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
+  - title: Coming soon
+    description: Whole new redesign, more features, and more currencies still to come!
+    fontawesome_icon_name: mobile
 
 # Theme Settings
 topbar_color: "#000000"
