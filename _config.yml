@@ -3,20 +3,20 @@ ios_app_id: 1446763654 # Required. Enter iOS app ID to automatically populate na
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: # Enter Google Play Store URL.
-presskit_download_link: # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
+presskit_download_link:# Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
   # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon: assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: Unleaded # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Current prices of gas for transactions on Ethereum.
+app_description: The best way to see the current price of gas on Ethereum.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
 your_name: Jeff Reiner
 your_link: https://reiner.design
-your_city: 
+your_city:
 email_address: jeff@reiner.design
 facebook_username:
 instagram_username:
@@ -26,17 +26,17 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Your Favorite Stop
-    description: Clean, glanceable Ethereum gas prices in your native currency or Gwei.
-    fontawesome_icon_name: money-bill
-
-  - title: What We've Got
-    description: "Three speeds of Ethereum transactions: safeLow, average, and fast"
+  - title: Know When To Fill Up
+    description: "See how much your transaction will cost on the Ethereum network and how long it will take to complete in three speeds of gas (Slow, Average, and Fast)."
     fontawesome_icon_name: gas-pump
 
-  - title: Coming Soon
-    description: Whole new redesign, more features, and more currencies still to come!
-    fontawesome_icon_name: mobile
+  - title: Save At The Pump
+    description: "Quickly see the current price of Ethereum right at the top of the app. Easily change to your fiat currency of choice (currently USD, EUR, GBP, CAD, CNY)."
+    fontawesome_icon_name: money-bill
+
+  - title: Running On Empty?
+    description: "Who's hogging the gas on the Ethereum network? See the top 10 consumers of gas across the whole network rated by percentage."
+    fontawesome_icon_name: battery-empty
 
 # Theme Settings
 topbar_color: "#000000"
